@@ -1,0 +1,32 @@
+* {
+  padding:0px;
+}
+
+header {
+  width: 100vw;
+  height:80px;
+  background-color: rgb(65, 65, 65);
+}
+
+header > img {
+  width: 90px;
+}
+
+header > div {
+  display: inline-block;
+  height: 90px;
+  font-family: Arial, Helvetica, sans-serif;
+  color:white;
+  padding: 10px;
+}
+
+header > div > h1 {
+  font-size: 20px;
+  font-weight: 600;
+  color:white;
+}
+
+header > div > h2 {
+  font-size: 15px;
+  font-weight: 300;
+}
